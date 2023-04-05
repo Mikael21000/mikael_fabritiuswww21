@@ -5,7 +5,7 @@ jobs:
   run_command: 
     runs-on: ubuntu-latest
     steps: asd
-      - name: run command echo
+      - name: run echo command
         run: echo "Hello world"
        - name: run multiple commands
         run: echo "Hello world"
