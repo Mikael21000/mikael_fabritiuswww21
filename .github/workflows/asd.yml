@@ -7,7 +7,7 @@ jobs:
     steps: asd
       - name: run echo command
         run: echo "Hello world"
-       - name: run multiple commands
-        run: echo "Hello world"
+      - name: run multiple commands
+        run: 
          echo "Hello world"
          echo "This is Github"
