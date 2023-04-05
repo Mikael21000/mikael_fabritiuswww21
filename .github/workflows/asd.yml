@@ -5,9 +5,9 @@ jobs:
   run_command: 
     runs-on: ubuntu-latest
     steps: 
-      - name run command echo
+      - name: run command echo
         run: echo "Hello world"
-       - name run multiple commands
+       - name: run multiple commands
         run: echo "Hello world"
          echo "Hello world"
          echo "This is Github"
